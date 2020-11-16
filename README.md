@@ -1,0 +1,3 @@
+# Ubuntu20 configs (WSL2)
+
+## My configs for tmux, fish, vim, vscode, bash and more...
